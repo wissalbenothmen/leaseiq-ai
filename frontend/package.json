@@ -21,7 +21,7 @@
     "axios": "^1.6.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "date-fns": "^2.30.0",
+    "date-fns": "^4.2.1",
     "fullcalendar": "^6.1.10",
     "lucide-react": "^0.292.0",
     "react": "^18.2.0",

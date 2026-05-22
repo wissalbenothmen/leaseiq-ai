@@ -81,7 +81,7 @@ flowchart LR
 
 ### Dashboard
 
-<img src="docs/screenshots/06_dashboard.png" alt="Portfolio dashboard." width="640">
+<img src="docs/screenshots/07_dashboard.png" alt="Portfolio dashboard." width="640">
 
 ## Stack
 

@@ -28,7 +28,7 @@
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.6.0",
     "react-router-dom": "^6.20.0",
-    "recharts": "^2.10.3",
+    "recharts": "^3.8.1",
     "shadcn-ui": "^0.8.0",
     "zustand": "^4.4.0"
   },
